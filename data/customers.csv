@@ -1,0 +1,301 @@
+customer_id,customer_name,segment,city,region,signup_date
+1,Evermark Technologies,Small Business,Chennai,South,2024-01-11
+2,Bluewave Traders,Small Business,Delhi,North,2025-08-04
+3,Lakefield Associates,Retail,Chennai,South,2023-08-28
+4,Kiteway Systems,Corporate,Chandigarh,North,2025-03-01
+5,Jadestone Supplies,Small Business,Chennai,South,2025-02-12
+6,Fernhill Agencies,Small Business,Guwahati,East,2026-02-12
+7,Evermark Industries,Retail,Ahmedabad,West,2023-11-12
+8,Yellowpine Retail,Small Business,Delhi,North,2023-07-10
+9,Deltaforge Associates,Small Business,Hyderabad,South,2024-11-30
+10,Silverline Traders,Small Business,Kochi,South,2024-07-13
+11,Bluewave Industries,Retail,Kolkata,East,2025-03-18
+12,Bluewave Retail,Retail,Bhubaneswar,East,2026-02-09
+13,Deltaforge Agencies,Small Business,Jaipur,North,2025-07-30
+14,Jadestone Retail,Small Business,Hyderabad,South,2025-07-04
+15,Jadestone Agencies,Retail,Kolkata,East,2026-01-13
+16,Valewood Supplies,Small Business,Mumbai,West,2025-10-27
+17,Bluewave Enterprises,Retail,Bengaluru,South,2025-04-13
+18,Ironbridge Systems,Corporate,Mumbai,West,2025-01-25
+19,Zenhaven Industries,Corporate,Hyderabad,South,2025-01-09
+20,Redbrook Stores,Corporate,Hyderabad,South,2024-09-13
+21,Jadestone Industries,Small Business,Chandigarh,North,2026-01-06
+22,Tidewater Enterprises,Small Business,Patna,East,2025-09-06
+23,Lakefield Stores,Retail,Bengaluru,South,2026-02-02
+24,Apex Retail,Small Business,Bengaluru,South,2025-12-19
+25,Goldleaf Technologies,Retail,Bhubaneswar,East,2025-09-09
+26,Zenhaven Solutions,Retail,Lucknow,North,2024-07-26
+27,Oakridge Supplies,Small Business,Pune,West,2024-06-23
+28,Yellowpine Enterprises,Small Business,Chennai,South,2024-08-12
+29,Goldleaf Distributors,Retail,Patna,East,2024-06-24
+30,Jadestone Solutions,Corporate,Guwahati,East,2026-02-16
+31,Oakridge Industries,Corporate,Patna,East,2023-08-09
+32,Zenhaven Systems,Retail,Kolkata,East,2024-09-19
+33,Yellowpine Agencies,Corporate,Kochi,South,2024-03-17
+34,Quillon Solutions,Small Business,Hyderabad,South,2024-07-07
+35,Evermark Enterprises,Retail,Jaipur,North,2025-07-07
+36,Pinewood Retail,Retail,Bhubaneswar,East,2024-08-16
+37,Oakridge Associates,Retail,Pune,West,2025-05-24
+38,Lakefield Retail,Small Business,Kolkata,East,2024-08-19
+39,Bluewave Stores,Retail,Hyderabad,South,2024-09-13
+40,Tidewater Distributors,Corporate,Surat,West,2025-05-22
+41,Fernhill Retail,Corporate,Hyderabad,South,2025-05-05
+42,Quillon Enterprises,Small Business,Bengaluru,South,2025-05-19
+43,Deltaforge Industries,Retail,Delhi,North,2024-03-07
+44,Maplecrest Supplies,Retail,Kochi,South,2025-07-05
+45,Pinewood Systems,Retail,Chennai,South,2025-05-02
+46,Maplecrest Retail,Retail,Kochi,South,2023-12-28
+47,Westmark Enterprises,Retail,Kochi,South,2026-01-25
+48,Pinewood Traders,Small Business,Ahmedabad,West,2025-05-14
+49,Bluewave Systems,Retail,Surat,West,2025-03-19
+50,Apex Agencies,Corporate,Surat,West,2026-01-04
+51,Oakridge Enterprises,Retail,Kochi,South,2025-11-07
+52,Evermark Stores,Corporate,Guwahati,East,2024-09-23
+53,Quillon Systems,Retail,Kolkata,East,2024-05-23
+54,Goldleaf Solutions,Retail,Bengaluru,South,2024-07-27
+55,Bluewave Associates,Small Business,Surat,West,2024-06-03
+56,Silverline Solutions,Retail,Mumbai,West,2024-08-02
+57,Evermark Agencies,Corporate,Ahmedabad,West,2024-10-31
+58,Silverline Systems,Retail,Surat,West,2025-11-20
+59,Crestline Enterprises,Corporate,Kochi,South,2024-11-11
+60,Ironbridge Enterprises,Retail,Surat,West,2024-06-09
+61,Zenhaven Supplies,Corporate,Mumbai,West,2026-01-27
+62,Jadestone Associates,Retail,Chandigarh,North,2023-09-24
+63,Northgate Supplies,Small Business,Hyderabad,South,2023-08-21
+64,Redbrook Technologies,Retail,Patna,East,2024-06-10
+65,Highmoor Technologies,Retail,Surat,West,2024-03-15
+66,Deltaforge Systems,Small Business,Delhi,North,2026-03-01
+67,Highmoor Stores,Corporate,Chandigarh,North,2025-08-11
+68,Highmoor Supplies,Corporate,Chandigarh,North,2025-03-28
+69,Evermark Systems,Retail,Lucknow,North,2025-01-28
+70,Oakridge Retail,Retail,Kolkata,East,2023-12-19
+71,Fernhill Associates,Small Business,Chennai,South,2026-03-14
+72,Oakridge Agencies,Retail,Pune,West,2024-08-10
+73,Westmark Technologies,Retail,Hyderabad,South,2023-10-13
+74,Northgate Technologies,Retail,Delhi,North,2025-09-23
+75,Bluewave Supplies,Small Business,Ahmedabad,West,2025-05-08
+76,Maplecrest Agencies,Small Business,Surat,West,2025-10-20
+77,Tidewater Technologies,Corporate,Pune,West,2025-06-24
+78,Deltaforge Distributors,Retail,Patna,East,2025-03-22
+79,Lakefield Industries,Retail,Kolkata,East,2024-05-26
+80,Pinewood Supplies,Retail,Surat,West,2024-03-06
+81,Fernhill Solutions,Small Business,Surat,West,2025-11-18
+82,Tidewater Supplies,Small Business,Guwahati,East,2024-06-13
+83,Jadestone Stores,Corporate,Kochi,South,2023-09-26
+84,Umberfield Traders,Small Business,Kochi,South,2025-06-07
+85,Fernhill Technologies,Small Business,Lucknow,North,2023-10-04
+86,Northgate Distributors,Small Business,Patna,East,2025-05-10
+87,Valewood Agencies,Retail,Guwahati,East,2024-09-08
+88,Westmark Associates,Small Business,Pune,West,2024-04-03
+89,Evermark Associates,Corporate,Bengaluru,South,2024-05-19
+90,Oakridge Distributors,Retail,Ahmedabad,West,2024-04-09
+91,Goldleaf Agencies,Corporate,Bengaluru,South,2024-04-29
+92,Quillon Industries,Corporate,Chennai,South,2024-04-06
+93,Quillon Supplies,Retail,Kochi,South,2025-04-14
+94,Bluewave Solutions,Small Business,Lucknow,North,2025-02-07
+95,Umberfield Associates,Corporate,Kochi,South,2026-03-15
+96,Apex Associates,Small Business,Delhi,North,2024-08-14
+97,Goldleaf Associates,Retail,Kolkata,East,2023-09-26
+98,Ironbridge Supplies,Small Business,Pune,West,2025-03-12
+99,Yellowpine Solutions,Retail,Ahmedabad,West,2024-10-04
+100,Zenhaven Enterprises,Small Business,Mumbai,West,2024-05-08
+101,Evermark Supplies,Retail,Chandigarh,North,2026-02-25
+102,Maplecrest Enterprises,Corporate,Delhi,North,2023-12-08
+103,Westmark Traders,Retail,Surat,West,2024-10-04
+104,Quillon Agencies,Retail,Kochi,South,2024-04-21
+105,Quillon Distributors,Small Business,Bengaluru,South,2026-02-01
+106,Northgate Agencies,Corporate,Hyderabad,South,2025-04-24
+107,Kiteway Distributors,Corporate,Jaipur,North,2023-08-31
+108,Yellowpine Supplies,Corporate,Guwahati,East,2024-09-22
+109,Northgate Associates,Small Business,Patna,East,2024-11-24
+110,Jadestone Technologies,Small Business,Jaipur,North,2025-12-27
+111,Deltaforge Traders,Corporate,Delhi,North,2023-10-02
+112,Fernhill Distributors,Corporate,Bhubaneswar,East,2025-02-10
+113,Crestline Agencies,Small Business,Surat,West,2026-01-24
+114,Valewood Distributors,Corporate,Ahmedabad,West,2026-03-19
+115,Lakefield Agencies,Corporate,Bhubaneswar,East,2025-05-17
+116,Lakefield Systems,Retail,Surat,West,2024-04-21
+117,Pinewood Associates,Corporate,Jaipur,North,2024-10-08
+118,Maplecrest Systems,Small Business,Mumbai,West,2025-12-02
+119,Jadestone Enterprises,Corporate,Ahmedabad,West,2024-08-27
+120,Pinewood Solutions,Small Business,Mumbai,West,2025-04-01
+121,Quillon Stores,Small Business,Kochi,South,2026-02-04
+122,Highmoor Associates,Corporate,Chennai,South,2025-06-26
+123,Redbrook Distributors,Retail,Delhi,North,2024-02-16
+124,Pinewood Distributors,Retail,Lucknow,North,2025-04-24
+125,Kiteway Stores,Retail,Patna,East,2024-12-03
+126,Kiteway Supplies,Small Business,Pune,West,2024-03-06
+127,Bluewave Agencies,Corporate,Kochi,South,2025-12-01
+128,Zenhaven Stores,Corporate,Guwahati,East,2025-10-18
+129,Crestline Industries,Corporate,Surat,West,2025-12-03
+130,Deltaforge Retail,Retail,Pune,West,2024-10-09
+131,Northgate Industries,Small Business,Kochi,South,2025-02-05
+132,Valewood Systems,Retail,Surat,West,2025-06-22
+133,Jadestone Traders,Retail,Bengaluru,South,2024-11-19
+134,Maplecrest Associates,Corporate,Patna,East,2025-12-07
+135,Quillon Associates,Retail,Surat,West,2023-07-16
+136,Ironbridge Solutions,Small Business,Hyderabad,South,2023-09-15
+137,Westmark Stores,Corporate,Ahmedabad,West,2025-04-26
+138,Northgate Stores,Small Business,Surat,West,2026-03-04
+139,Yellowpine Technologies,Corporate,Jaipur,North,2025-03-24
+140,Valewood Stores,Retail,Delhi,North,2024-09-17
+141,Fernhill Industries,Corporate,Guwahati,East,2026-01-11
+142,Lakefield Technologies,Small Business,Bhubaneswar,East,2024-07-02
+143,Apex Solutions,Retail,Pune,West,2025-01-30
+144,Crestline Systems,Retail,Chandigarh,North,2025-03-16
+145,Pinewood Industries,Small Business,Hyderabad,South,2024-02-23
+146,Quillon Technologies,Retail,Jaipur,North,2026-01-06
+147,Highmoor Retail,Small Business,Hyderabad,South,2023-09-14
+148,Tidewater Solutions,Retail,Guwahati,East,2025-04-15
+149,Goldleaf Retail,Retail,Patna,East,2024-01-20
+150,Yellowpine Stores,Small Business,Ahmedabad,West,2025-02-05
+151,Oakridge Traders,Retail,Patna,East,2023-07-23
+152,Tidewater Stores,Retail,Lucknow,North,2026-01-18
+153,Apex Traders,Retail,Guwahati,East,2025-09-02
+154,Umberfield Distributors,Small Business,Bengaluru,South,2025-03-27
+155,Kiteway Associates,Retail,Delhi,North,2024-05-12
+156,Deltaforge Technologies,Retail,Hyderabad,South,2023-10-01
+157,Kiteway Technologies,Corporate,Hyderabad,South,2024-01-22
+158,Crestline Retail,Corporate,Patna,East,2025-10-28
+159,Goldleaf Industries,Retail,Kolkata,East,2025-08-03
+160,Valewood Retail,Retail,Chandigarh,North,2023-11-22
+161,Evermark Solutions,Retail,Ahmedabad,West,2026-03-17
+162,Oakridge Solutions,Small Business,Mumbai,West,2023-07-15
+163,Highmoor Agencies,Small Business,Guwahati,East,2025-02-18
+164,Umberfield Industries,Corporate,Hyderabad,South,2024-10-25
+165,Umberfield Technologies,Corporate,Kochi,South,2025-04-24
+166,Valewood Solutions,Small Business,Bhubaneswar,East,2025-04-25
+167,Goldleaf Stores,Retail,Delhi,North,2024-05-07
+168,Zenhaven Associates,Small Business,Kochi,South,2024-08-01
+169,Apex Industries,Small Business,Chennai,South,2025-12-23
+170,Silverline Distributors,Retail,Mumbai,West,2026-02-16
+171,Oakridge Stores,Small Business,Bengaluru,South,2024-09-27
+172,Goldleaf Supplies,Small Business,Jaipur,North,2025-06-02
+173,Fernhill Enterprises,Retail,Patna,East,2024-01-11
+174,Apex Distributors,Retail,Chennai,South,2025-04-18
+175,Crestline Supplies,Retail,Bhubaneswar,East,2024-03-06
+176,Yellowpine Systems,Corporate,Bengaluru,South,2025-02-20
+177,Goldleaf Traders,Retail,Chennai,South,2025-09-15
+178,Kiteway Enterprises,Small Business,Bengaluru,South,2023-11-11
+179,Apex Stores,Corporate,Chandigarh,North,2023-11-12
+180,Kiteway Solutions,Small Business,Chandigarh,North,2023-12-26
+181,Valewood Associates,Corporate,Lucknow,North,2025-08-02
+182,Silverline Retail,Small Business,Delhi,North,2024-10-05
+183,Ironbridge Associates,Retail,Kolkata,East,2024-10-12
+184,Redbrook Traders,Small Business,Mumbai,West,2025-11-14
+185,Yellowpine Industries,Retail,Ahmedabad,West,2023-09-14
+186,Maplecrest Stores,Small Business,Jaipur,North,2023-11-07
+187,Pinewood Agencies,Small Business,Patna,East,2024-10-07
+188,Silverline Stores,Retail,Chandigarh,North,2025-11-20
+189,Kiteway Industries,Small Business,Kochi,South,2024-08-27
+190,Highmoor Traders,Small Business,Jaipur,North,2024-05-16
+191,Fernhill Traders,Retail,Chennai,South,2025-06-03
+192,Fernhill Stores,Small Business,Jaipur,North,2023-10-04
+193,Bluewave Technologies,Retail,Jaipur,North,2025-02-20
+194,Crestline Technologies,Retail,Surat,West,2024-06-27
+195,Maplecrest Solutions,Small Business,Jaipur,North,2026-03-18
+196,Goldleaf Systems,Retail,Bengaluru,South,2023-12-06
+197,Quillon Retail,Small Business,Kolkata,East,2025-11-12
+198,Redbrook Associates,Small Business,Chennai,South,2025-10-04
+199,Redbrook Agencies,Corporate,Guwahati,East,2023-07-30
+200,Ironbridge Traders,Corporate,Bhubaneswar,East,2023-07-07
+201,Northgate Systems,Corporate,Mumbai,West,2023-09-10
+202,Highmoor Industries,Small Business,Hyderabad,South,2024-07-20
+203,Umberfield Enterprises,Small Business,Kolkata,East,2025-07-08
+204,Highmoor Distributors,Retail,Chennai,South,2023-12-09
+205,Lakefield Supplies,Retail,Patna,East,2024-09-26
+206,Evermark Retail,Corporate,Mumbai,West,2024-04-05
+207,Highmoor Enterprises,Retail,Lucknow,North,2024-04-16
+208,Redbrook Systems,Corporate,Kolkata,East,2023-08-16
+209,Westmark Retail,Corporate,Bhubaneswar,East,2026-02-23
+210,Oakridge Technologies,Corporate,Patna,East,2024-05-31
+211,Fernhill Supplies,Small Business,Bengaluru,South,2023-11-10
+212,Zenhaven Agencies,Small Business,Kolkata,East,2023-09-12
+213,Zenhaven Traders,Corporate,Ahmedabad,West,2026-01-29
+214,Crestline Distributors,Retail,Ahmedabad,West,2025-06-26
+215,Redbrook Supplies,Small Business,Lucknow,North,2026-03-16
+216,Maplecrest Industries,Small Business,Kolkata,East,2023-09-29
+217,Silverline Supplies,Corporate,Ahmedabad,West,2024-12-18
+218,Northgate Enterprises,Retail,Chennai,South,2024-06-06
+219,Maplecrest Distributors,Small Business,Jaipur,North,2024-12-25
+220,Westmark Solutions,Corporate,Hyderabad,South,2024-02-27
+221,Northgate Traders,Retail,Chennai,South,2025-08-17
+222,Westmark Agencies,Retail,Surat,West,2024-10-18
+223,Ironbridge Retail,Retail,Guwahati,East,2025-12-01
+224,Lakefield Solutions,Small Business,Jaipur,North,2024-10-23
+225,Apex Technologies,Small Business,Jaipur,North,2024-06-25
+226,Silverline Agencies,Small Business,Jaipur,North,2023-08-28
+227,Westmark Distributors,Small Business,Lucknow,North,2025-03-21
+228,Westmark Supplies,Retail,Chandigarh,North,2024-10-03
+229,Kiteway Agencies,Corporate,Mumbai,West,2024-11-25
+230,Deltaforge Supplies,Corporate,Bhubaneswar,East,2025-07-01
+231,Redbrook Retail,Small Business,Pune,West,2024-09-22
+232,Fernhill Systems,Small Business,Guwahati,East,2024-07-31
+233,Lakefield Traders,Retail,Jaipur,North,2025-09-16
+234,Tidewater Associates,Retail,Jaipur,North,2025-01-22
+235,Silverline Enterprises,Corporate,Bengaluru,South,2024-06-06
+236,Tidewater Traders,Retail,Patna,East,2026-03-17
+237,Valewood Industries,Small Business,Jaipur,North,2024-05-13
+238,Deltaforge Stores,Retail,Jaipur,North,2025-04-22
+239,Umberfield Retail,Retail,Guwahati,East,2024-01-01
+240,Tidewater Industries,Corporate,Pune,West,2024-01-13
+241,Pinewood Technologies,Retail,Kolkata,East,2025-11-11
+242,Yellowpine Associates,Small Business,Bengaluru,South,2025-03-03
+243,Ironbridge Technologies,Small Business,Kochi,South,2025-07-08
+244,Maplecrest Technologies,Small Business,Hyderabad,South,2026-03-19
+245,Lakefield Distributors,Small Business,Ahmedabad,West,2024-02-25
+246,Jadestone Systems,Retail,Ahmedabad,West,2026-01-11
+247,Tidewater Systems,Retail,Surat,West,2024-10-15
+248,Crestline Solutions,Corporate,Pune,West,2026-03-16
+249,Westmark Systems,Small Business,Kochi,South,2025-12-10
+250,Apex Supplies,Retail,Delhi,North,2025-06-28
+251,Evermark Distributors,Small Business,Bengaluru,South,2024-04-05
+252,Redbrook Industries,Retail,Lucknow,North,2026-02-24
+253,Northgate Retail,Corporate,Jaipur,North,2024-08-28
+254,Valewood Technologies,Corporate,Jaipur,North,2024-07-18
+255,Ironbridge Industries,Corporate,Kolkata,East,2025-09-18
+256,Westmark Industries,Retail,Surat,West,2025-06-12
+257,Goldleaf Enterprises,Corporate,Jaipur,North,2026-01-13
+258,Yellowpine Traders,Retail,Kochi,South,2025-01-12
+259,Umberfield Solutions,Small Business,Kolkata,East,2024-02-29
+260,Valewood Enterprises,Corporate,Surat,West,2023-09-03
+261,Evermark Traders,Small Business,Chandigarh,North,2025-04-08
+262,Jadestone Distributors,Corporate,Guwahati,East,2024-09-12
+263,Ironbridge Agencies,Retail,Mumbai,West,2024-01-08
+264,Valewood Traders,Retail,Kolkata,East,2023-09-08
+265,Pinewood Enterprises,Retail,Ahmedabad,West,2023-08-14
+266,Tidewater Retail,Retail,Jaipur,North,2024-06-30
+267,Crestline Stores,Small Business,Jaipur,North,2025-08-29
+268,Pinewood Stores,Small Business,Bhubaneswar,East,2025-01-10
+269,Kiteway Retail,Small Business,Pune,West,2025-06-12
+270,Yellowpine Distributors,Retail,Lucknow,North,2025-07-03
+271,Apex Systems,Retail,Chennai,South,2023-08-14
+272,Highmoor Solutions,Small Business,Patna,East,2024-12-09
+273,Redbrook Solutions,Small Business,Chennai,South,2024-04-18
+274,Umberfield Supplies,Corporate,Guwahati,East,2024-04-05
+275,Lakefield Enterprises,Small Business,Surat,West,2025-07-31
+276,Maplecrest Traders,Retail,Hyderabad,South,2024-11-20
+277,Umberfield Agencies,Corporate,Patna,East,2025-09-28
+278,Silverline Associates,Small Business,Chennai,South,2025-01-09
+279,Apex Enterprises,Small Business,Patna,East,2024-05-09
+280,Umberfield Systems,Small Business,Ahmedabad,West,2024-06-24
+281,Oakridge Systems,Retail,Mumbai,West,2024-04-07
+282,Northgate Solutions,Small Business,Pune,West,2024-07-07
+283,Deltaforge Solutions,Retail,Kochi,South,2025-11-16
+284,Zenhaven Retail,Retail,Jaipur,North,2024-02-27
+285,Zenhaven Technologies,Corporate,Lucknow,North,2025-03-11
+286,Redbrook Enterprises,Retail,Bhubaneswar,East,2024-09-27
+287,Silverline Industries,Retail,Pune,West,2024-05-17
+288,Ironbridge Distributors,Corporate,Lucknow,North,2025-07-23
+289,Zenhaven Distributors,Retail,Lucknow,North,2024-03-25
+290,Crestline Traders,Retail,Patna,East,2025-06-10
+291,Silverline Technologies,Corporate,Bengaluru,South,2025-11-20
+292,Bluewave Distributors,Retail,Ahmedabad,West,2023-09-28
+293,Kiteway Traders,Small Business,Jaipur,North,2025-01-14
+294,Quillon Traders,Small Business,Bengaluru,South,2025-09-20
+295,Umberfield Stores,Corporate,Kochi,South,2025-09-19
+296,Crestline Associates,Retail,Bhubaneswar,East,2024-10-21
+297,Highmoor Systems,Small Business,Lucknow,North,2023-09-06
+298,Deltaforge Enterprises,Small Business,Pune,West,2025-10-21
+299,Tidewater Agencies,Small Business,Jaipur,North,2024-10-03
+300,Ironbridge Stores,Retail,Kochi,South,2025-08-25

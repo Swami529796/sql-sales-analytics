@@ -1,0 +1,25 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Laptop Pro 15,Computers,78000,61000
+2,Laptop Air 13,Computers,55000,44500
+3,Desktop Tower,Computers,42000,33000
+4,Mini PC,Computers,28000,22500
+5,Monitor 24in,Displays,11500,8600
+6,Monitor 27in 4K,Displays,24000,18200
+7,Projector HD,Displays,36000,28500
+8,Laser Printer,Peripherals,14500,11200
+9,Inkjet Printer,Peripherals,7800,6100
+10,Document Scanner,Peripherals,9500,7000
+11,Webcam HD,Peripherals,3200,2000
+12,Wireless Mouse,Accessories,850,420
+13,Mechanical Keyboard,Accessories,3600,2150
+14,USB-C Hub,Accessories,2400,1400
+15,Headset Pro,Accessories,4200,2600
+16,Laptop Bag,Accessories,1500,780
+17,WiFi Router,Networking,3900,2700
+18,Network Switch 16p,Networking,8200,6100
+19,Mesh WiFi Kit,Networking,12500,9300
+20,External SSD 1TB,Storage,7400,5600
+21,External HDD 2TB,Storage,5600,4400
+22,NAS 2-Bay,Storage,21000,16800
+23,USB Drive 64GB,Storage,650,330
+24,UPS 1kVA,Peripherals,6800,5200

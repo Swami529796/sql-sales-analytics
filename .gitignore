@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated database (run: python run_queries.py)
+*.db
+
+# Windows
+Thumbs.db
+desktop.ini

@@ -1,0 +1,2 @@
+# Count SQL in the repository language statistics (GitHub ignores it by default)
+*.sql linguist-detectable=true
